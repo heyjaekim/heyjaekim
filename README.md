@@ -1,11 +1,11 @@
-### Hi there 👋
+### Greetings! 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heyjaekim)](https://solved.ac/heyjaekim/)
 
 <br />
 <br />
 
-- 👋 Hi there, I’m `Jaeweon Kim` !
+- 👋 My name is `Jaeweon Kim`, and I have double major in Computer Science and Business Analytics IT!
 - 🌱 I’m currently working as a `server developer`.
 - 📖 I have been learn programming since `Jan 2019`.
 - 👀 I’m interested in `Spring-Boot`, `JPA`, `Django`, `React`, and Such !
