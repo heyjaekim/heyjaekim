@@ -5,7 +5,7 @@
 <br />
 <br />
 
-- 👋 My name is `Jaeweon Kim`, and I have double major in Computer Science and Business Analytics IT!
+- 👋 My name is `Jaeweon Kim`, double major in Computer Science and Business Analytics IT!
 - 🌱 I’m currently working as a `server developer`.
 - 📖 I have been learn programming since `Jan 2019`.
 - 👀 I’m interested in `Spring-Boot`, `JPA`, `Django`, `React`, and Such !
